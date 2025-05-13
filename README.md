@@ -42,8 +42,8 @@ A Skilled Full-stack Web Developer with specialization in Node.js Backend Develo
 
 
 **My Github Stats:**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthosingh)](https://github.com/parthosingh/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthosingh&show_icons=true&locale=en&layout=compact" alt="parthosingh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthosingh&show_icons=true&locale=en" alt="parthosingh" /></p>
 
