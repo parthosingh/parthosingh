@@ -42,7 +42,7 @@ A Skilled Full-stack Web Developer with specialization in Node.js Backend Develo
 
 
 **My Github Stats:**
-<img alt="mystats" align="left"  width="49%" src="https://github-readme-stats.vercel.app/api?username=parthosingh"/>
+<img alt="mystats" align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=parthosingh"/>
 
-<img alt="top langs" align="left"  width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthosingh&layout=compact"/>
+<img alt="top langs" align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthosingh&layout=compact"/>
 -->
