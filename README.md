@@ -1,3 +1,4 @@
+
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://rishavchanda.io)
 **<h2> Hello👋, I am Partho Singh</h2>** 
          
@@ -42,7 +43,9 @@ A Skilled Full-stack Web Developer with specialization in Node.js Backend Develo
 
 
 **My Github Stats:**
-<img alt="mystats" align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=parthosingh"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthosingh&show_icons=true&locale=en&layout=compact" alt="parthosingh" /></p>
 
-<img alt="top langs" align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthosingh&layout=compact"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthosingh&show_icons=true&locale=en" alt="parthosingh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthosingh&" alt="parthosingh" /></p>
 -->
